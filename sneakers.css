@@ -1,0 +1,1779 @@
+body{
+    background-color: #5A8962;
+height: 270em;
+width: 99%;
+color: #f0fdbe; ;
+}
+
+header{
+    background-color: #5A8962;
+    height: 18em;
+    width: 95em;
+    margin: -9px;
+}
+
+.tete{
+    display: flex;
+    background-color: #38543b;
+    height: 6em;
+    width: 1529px;
+    margin: -9px;
+    justify-content: space-evenly;
+    align-items: center;
+    box-shadow: 10px 5px 5px #3e3c3c85;
+}
+
+
+
+.Logo{
+        border-radius: 40px;
+    height: 4em;
+    width: 9em;
+    margin-right: 35em;
+    background-color: #f0fdbe;
+}
+
+h3{
+    font-weight: normal;
+    font-size: 36px;
+    font-family: 'Aldrich', sans-serif;
+}
+
+.Rech{
+    display: flex;
+    height: 4em;
+    width: 29em;
+    margin: 12em;
+    
+}
+
+input{
+    width: 10em;
+    height: 4em;
+    background-color: #f0fdbe;
+    border: none;
+}
+
+button{
+    height: 56px;
+    width: 4em;
+    background-color: #37359e;
+    border: none;
+    border-radius: 15px 0 0 15px;
+}
+
+.v2{
+    height: 56px;
+    width: 4em;
+    background-color: #37359e;
+    border: none;
+    border-radius: 0 15px 15px 0;
+}
+
+main{
+    width: 94em;
+    height: 208em;
+}
+
+.slo{
+    height: 17px;
+    width: 65em;
+    margin-left: 471px;
+    font-size: 1em;
+    
+}
+
+.slo2{
+    font-weight: normal;
+    font-family: 'Alegreya Sans SC', sans-serif;
+    font-size: 9rem;
+}
+
+.sla{
+    height: 1em;
+    width: 69em;
+}
+
+.sla2{
+    font-family: 'Advent Pro', sans-serif;
+    font-size: 9rem;
+    color: #37359e;
+    position: relative;
+    z-index: 99;
+}
+
+
+.home{
+    display: flex;
+    height: 35em;
+    width: 94em;
+    
+}
+.new{
+    height: 35em;
+    width: 70em;
+    
+}
+
+.naw{
+    height: 35em;
+    width: 70em;
+    mix-blend-mode: overlay;
+}
+
+.snek{
+    height: 35em;
+    width: 24em;
+    mix-blend-mode: overlay;
+}
+
+
+.sli{
+    left: 2em;
+    right: 1em;
+    top: -2em;
+    position: relative;
+    z-index: 100;
+    width: 0px;
+    writing-mode: tb-rl;
+    color: #37359e;
+    font-size: 2.3em;
+    transform: rotate(90deg);
+    font-family: 'Advent Pro', sans-serif;
+}
+
+
+
+.mor{
+    display: flex;
+    background: linear-gradient(179deg, #0500ff,#000000);
+    border: solid 1px #37359e;
+    text-decoration: none;
+    font-size: larger;
+    margin-left: 6em;
+    margin-top: 23em;
+    color: #f0fdbe;
+    z-index: 99;
+    position: absolute;
+    height: 4em;
+    width: 11em;
+    border-radius: 19px;
+    flex-wrap: nowrap;
+    align-items: center;
+}
+
+.mor1{
+    font-weight: 100;
+    text-align: revert;
+    width: 5em;
+    height: 49px;
+    font-size: 2em;
+    font-family: 'Aldrich', sans-serif;
+}
+
+
+.shoes{
+    margin: 3em;
+    height: 40em;
+    width: 89em;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    font-family: 'Advent Pro', sans-serif;
+}
+
+.convB{
+    box-shadow: 10px 14px 11px #302e2e;
+    height: 18em;
+    width: 18em;
+    border: solid 6px black;
+    border-radius: 25px;
+}
+.Nou{
+    display: flex;
+    margin: 2em;
+    position: absolute;
+    height: 2em;
+    width: 5em;
+    background-color: #5907af;
+    color: #f0fdbe;
+    flex-wrap: nowrap;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.conve{
+    border-radius: 19px;
+    height: 18em;
+    width: 18em;
+}
+
+.infoS{
+    border-radius: 0 0 15px 15px;
+    top: 81em;
+    position: absolute;
+    background-color: #000000;
+    height: 7em;
+    width: 18em;
+    opacity: 0.5;
+}
+
+ul{
+    margin-left: -1em;
+    margin-top: 8px;
+    font-size: x-large;
+    width: 9em;
+    height: 4px;
+    color: white;
+    font-weight: bolder;
+}
+
+.note{
+    color: yellow;
+}
+
+
+.puma{
+    height: 18em;
+    width: 18em;
+    border: solid 6px black;
+    border-radius: 25px; 
+    box-shadow: 10px 14px 11px #302e2e; 
+}
+
+.Nauv{
+    display: flex;
+    margin: 2em;
+    position: absolute;
+    height: 2em;
+    width: 5em;
+    background-color: #5907af;
+    color: #f0fdbe;
+    flex-wrap: nowrap;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.Pum{
+    border-radius: 19px;
+    height: 18em;
+    width: 18em;
+}
+
+
+.info{
+    border-radius: 0 0 15px 15px;
+    top: 81em;
+    position: absolute;
+    background-color: #000000;
+    height: 7em;
+    width: 18em;
+    opacity: 0.5;
+}
+
+.nota{
+    color: yellow;
+}
+
+.reebok{
+    overflow: hidden;
+    height: 18em;
+    width: 18em;
+    border: solid 6px black;
+    border-radius: 25px;
+    box-shadow: 10px 14px 11px #302e2e; 
+}
+
+.New{
+    display: flex;
+    margin: 2em;
+    position: absolute;
+    height: 2em;
+    width: 5em;
+    background-color: #5907af;
+    color: #f0fdbe;
+    flex-wrap: nowrap;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.ree{
+    margin-left: -4em;
+    border-radius: 19px;
+    height: 18em;
+    width: 26em;
+}
+
+
+.informa{
+    border-radius: 0 0 15px 15px;
+    top: 81em;
+    position: absolute;
+    background-color: #000000;
+    height: 7em;
+    width: 18em;
+    opacity: 0.5;
+}
+
+.eval{
+    color: yellow;
+}
+
+
+
+.Jordan{
+    overflow: hidden;
+    height: 18em;
+    width: 18em;
+    border: solid 6px black;
+    border-radius: 25px;
+    box-shadow: 10px 14px 11px #302e2e;
+}
+
+.nobio{
+    display: flex;
+    margin: 2em;
+    position: absolute;
+    height: 2em;
+    width: 5em;
+    background-color: #5907af;
+    color: #f0fdbe;
+    flex-wrap: nowrap;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.jord{
+    margin-left: -5em;
+    border-radius: 19px;
+    height: 18em;
+    width: 29em;
+    
+}
+
+
+.information{
+    border-radius: 0 0 15px 15px;
+    top: 81em;
+    position: absolute;
+    background-color: #000000;
+    height: 7em;
+    width: 18em;
+    opacity: 0.5;
+}
+
+.evalua{
+    color: yellow;
+}
+
+.Nike{
+    overflow: hidden;
+    height: 18em;
+    width: 18em;
+    border: solid 6px black;
+    border-radius: 25px;
+    overflow: hidden;
+    box-shadow: 10px 14px 11px #302e2e;
+}
+
+.PRO{
+    border-radius: 19px;
+    height: 19em;
+    width: 18em;
+    
+}
+
+
+.infoox{
+    border-radius: 0 0 15px 15px;
+    top: 101em;
+    position: absolute;
+    background-color: #000000;
+    height: 7em;
+    width: 18em;
+    opacity: 0.5;
+}
+
+.noias{
+    color: yellow;
+}
+
+
+
+.flower{
+    overflow: hidden;
+    height: 18em;
+    width: 18em;
+    border: solid 6px black;
+    border-radius: 25px;
+    box-shadow: 10px 14px 11px #302e2e;
+    }
+
+.mountain{
+    margin-top: -4em;
+    border-radius: 19px;
+    height: 26em;
+    width: 18em;
+}
+
+
+.infoop{
+    border-radius: 0 0 15px 15px;
+    top: 101em;
+    position: absolute;
+    background-color: #000000;
+    height: 7em;
+    width: 18em;
+    opacity: 0.5;
+    color: white;
+}
+
+.nobias{
+    color: yellow;
+}
+
+
+
+.star{
+    overflow: hidden;
+    height: 18em;
+    width: 18em;
+    border: solid 6px black;
+    border-radius: 25px;
+    box-shadow: 10px 14px 11px #302e2e;
+}
+
+.Converse{
+    margin-left: -3em;
+    margin-top: 0em;
+    border-radius: 19px;
+    height: 18em;
+    width: 27em;
+}
+
+
+.all{
+    border-radius: 0 0 15px 15px;
+    top: 101em;
+    position: absolute;
+    background-color: #000000;
+    height: 7em;
+    width: 18em;
+    opacity: 0.5;
+    color: white;
+}
+
+.nobious{
+    color: yellow;
+}
+
+
+.Leather{
+    height: 18em;
+    width: 18em;
+    border: solid 6px black;
+    border-radius: 25px;
+    box-shadow: 10px 14px 11px #302e2e;
+}
+
+.Leat{
+    border-radius: 19px;
+    height: 18em;
+    width: 18em;
+}
+
+
+.Leee{
+    border-radius: 0 0 15px 15px;
+    top: 101em;
+    position: absolute;
+    background-color: #000000;
+    height: 7em;
+    width: 18em;
+    opacity: 0.5;
+    color: white;
+}
+
+.nobious6{
+    color: yellow;
+}
+
+.Decor{
+    margin-left: 7em;
+    height: 31em;
+    width: 86em;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    font-family: 'Advent Pro', sans-serif;
+    
+}
+
+
+article{
+    height: 18em;
+    width: 18em;
+    border: solid 6px black;
+    border-radius: 25px;
+    box-shadow: 10px 14px 11px #302e2e;
+}
+
+.Pied{
+    display: flex;
+    overflow: hidden;
+    height: 30em;
+    width: 18em;
+    align-items: center;
+    background-color: #5907af;
+}
+
+.foote{
+    mix-blend-mode: screen;
+    margin-left: -6em;
+    transform: rotate(90deg);
+    height: 18em;
+    width: 30em;
+    border-radius: 15px;
+}
+
+
+.sandale{
+    height: 13em;
+    width: 34em;
+    overflow: hidden;
+    position: relative;
+    right: 30em;
+    background-color: #5907af;
+}
+
+.sandalette{
+    margin-top: -8em;
+    mix-blend-mode: luminosity;
+    height: 29em;
+    width: 34em;
+    border-radius: 15px;
+    top: 1em;
+}
+
+.adidas{
+    left: 339px;
+    position: relative;
+    overflow: hidden;
+    height: 13em;
+    width: 34em;
+    top: -15em;
+}
+
+.adidos{
+    mix-blend-mode: overlay;
+    margin-top: -9em;
+    height: 30em;
+    width: 39em;
+}
+
+.couleur{
+    right: 9em;
+    position: relative;
+    overflow: hidden;
+    height: 30em;
+    width: 18em;
+    background-color: red;
+    bottom: 490px;
+    border-radius: 9px;
+}
+
+
+.cool{
+    mix-blend-mode: difference;
+    margin-left: -6em;
+    transform: rotate(90deg);
+    height: 33em;
+    width: 31em;
+}
+
+
+.top{
+    display: flex;
+    margin: 4em;
+    height: 20em;
+    width: 88em;
+    justify-content: space-evenly;
+    flex-wrap: nowrap;
+    overflow: hidden;
+    font-family: 'Advent Pro', sans-serif;
+}
+
+.veja{
+    position: relative;
+    box-shadow: 10px 14px 11px #302e2e;
+    height: 18em;
+    width: 13em;
+    border: solid 6px black;
+    border-radius: 25px;
+    overflow: hidden;
+}
+
+.veji{
+    left: -4em;
+    position: relative;
+    border-radius: 19px;
+    height: 19em;
+    width: 22em;
+}
+
+.vejii{
+    border-radius: 0 0 15px 15px;
+    top: 13em;
+    position: absolute;
+    background-color: #000000;
+    height: 5em;
+    width: 13em;
+    opacity: 0.5;
+}
+
+
+.toup{
+    position: relative;
+    box-shadow: 10px 14px 11px #302e2e;
+    height: 18em;
+    width: 13em;
+    border: solid 6px black;
+    border-radius: 25px;
+    overflow: hidden;
+}
+
+.gola{
+    left: -4em;
+    position: relative;
+    border-radius: 19px;
+    height: 19em;
+    width: 22em;
+}
+
+.golda{
+    border-radius: 0 0 15px 15px;
+    top: 13em;
+    position: absolute;
+    background-color: #000000;
+    height: 5em;
+    width: 13em;
+    opacity: 0.5;
+}
+
+.pumaa{
+    position: relative;
+    box-shadow: 10px 14px 11px #302e2e;
+    height: 18em;
+    width: 13em;
+    border: solid 6px black;
+    border-radius: 25px;
+    overflow: hidden;
+}
+
+.vint{
+    left: -4em;
+    position: relative;
+    border-radius: 19px;
+    height: 19em;
+    width: 22em;
+}
+
+.vintage{
+    border-radius: 0 0 15px 15px;
+    top: 13em;
+    position: absolute;
+    background-color: #000000;
+    height: 5em;
+    width: 13em;
+    opacity: 0.5;
+}
+
+
+.nikee{
+    position: relative;
+    box-shadow: 10px 14px 11px #302e2e;
+    height: 18em;
+    width: 13em;
+    border: solid 6px black;
+    border-radius: 25px;
+    overflow: hidden;
+}
+
+.nyke{
+    left: -4em;
+    position: relative;
+    border-radius: 19px;
+    height: 19em;
+    width: 22em;
+}
+
+.vintage{
+    border-radius: 0 0 15px 15px;
+    top: 13em;
+    position: absolute;
+    background-color: #000000;
+    height: 5em;
+    width: 13em;
+    opacity: 0.5;
+}
+
+
+.boutonn{
+    height: 9em;
+    width: 34em;
+    display: flex;
+    margin-left: 33em;
+    justify-content: space-between;
+    align-items: flex-start;
+    flex-wrap: nowrap;
+    font-weight: bolder;
+    font-family: 'Advent Pro', sans-serif;
+}
+
+.Product{
+    display: flex;
+    background: linear-gradient(179deg, #0500ff,#000000);
+    border: solid 1px #37359e;
+    color: #f0fdbe;
+    height: 4em;
+    width: 12em;
+    border-radius: 19px;
+    flex-wrap: nowrap;
+    align-items: center;
+    justify-content: space-evenly;
+    font-size: larger;
+}
+
+.conss{
+    height: 27em;
+    width: 94em;
+    display: flex;
+    border: green;
+    font-family: 'Advent Pro', sans-serif;
+    
+}
+
+
+.concc{
+    height: 27em;
+    width: 2000em;
+    overflow: hidden;
+    background-image: url("c:\Users\Zouqq\Documents\Devlopp\exo\sneakers\dossier img sneacker (1)\dossier img sneacker\prairie.jpg");
+}
+
+.green{
+   top: 157em;
+    position: absolute;
+    left: 14em;
+    transform: translate(-50%, -50%);
+    z-index: 1;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    border: none;
+    box-shadow: none;
+}
+
+.ethique{
+    top: 157em;
+    position: absolute;
+    left: 59em;
+    transform: translate(-50%, -50%);
+    z-index: 1;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    border: none;
+    box-shadow: none;
+}
+
+.reseau{
+    height: 7em;
+    width: 21em;
+    display: flex;
+    position: relative;
+    top: 3em;
+    left: 39em;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.ticktok{
+    height: 5em;
+    width: 5em;
+border-radius: 45px;
+}
+
+.twitter{
+    height:5em;
+    width: 5em;
+    border-radius: 45px;
+}
+
+.insta{
+    height: 5em;
+    width: 5em;
+    border-radius: 45px;
+}
+
+.paiment{
+    height: 7em;
+    width: 34em;
+    display: flex;
+    position: relative;
+    top: 10em;
+    left: 31em;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.apple{
+    height: 4em;
+    width: 7em; 
+}
+
+.google{
+    height: 4em;
+    width: 7em; 
+}
+
+.paypal{
+    height: 4em;
+    width: 7em; 
+}
+
+.visa{
+    height: 4em;
+    width: 7em; 
+}
+
+footer{
+    height: 27em;
+    width: 94em;
+}
+
+.fuute{
+    height: 27em;
+    width: 94em;
+    display: flex;
+    position: relative;
+    justify-content: space-around;
+    align-items: center;
+    
+}
+
+.redirection{
+    height: 10em;
+    width: 18em;
+    border: none;
+    box-shadow: none;
+    color: white;
+}
+
+.client{
+    height: 10em;
+    width: 18em;
+    border: none;
+    box-shadow: none;
+    color: white;
+}
+
+.achat{
+    height: 10em;
+    width: 18em;
+    border: none;
+    box-shadow: none;
+    color: white;
+}
+
+.collab{
+    height: 10em;
+    width: 18em;
+    border: none;
+    box-shadow: none;
+    color: white;
+}
+
+
+
+@media only screen and (min-width: 430px) and (max-width:932px) {
+  
+    
+    body{
+        background-color: #5A8962;
+    height: 270em;
+    width: 153%;
+    color: #f0fdbe; ;
+    }
+    
+    header{
+        background-color: #5A8962;
+    height: 19em;
+    width: 95em;
+    margin: -9px;
+    }
+    
+    .tete{
+        display: flex;
+    background-color: #38543b;
+    height: 20em;
+    width: 1529px;
+    margin: -9px;
+    justify-content: space-evenly;
+    align-items: center;
+    box-shadow: 10px 5px 5px #3e3c3c85;
+    }
+    
+    
+    
+    .Logo{
+        border-radius: 40px;
+    height: 13em;
+    width: 22em;
+    margin-right: 35em;
+    background-color: #f0fdbe;
+    }
+    
+    h3{
+        font-weight: normal;
+        font-size: 36px;
+        font-family: 'Aldrich', sans-serif;
+    }
+    
+    .Rech{
+        left: 24em;
+        position: relative;
+        display: flex;
+        height: 12em;
+        width: 48em;
+        margin: 9em;
+        
+    }
+    
+    input{
+        width: 18em;
+    height: 8em;
+    background-color: #f0fdbe;
+    border: none;
+    }
+    
+    button{
+        height: 105px;
+    width: 6em;
+    background-color: #37359e;
+    border: none;
+    border-radius: 15px 0 0 15px;
+    }
+    
+    .v2{
+        height: 111px;
+        width: 6em;
+        background-color: #37359e;
+        border: none;
+        border-radius: 0 15px 15px 0;
+    }
+    
+    main{
+        width: 94em;
+        height: 208em;
+    }
+    
+    .slo{
+        margin: 20em;
+    top: 11em;
+    position: relative;
+    height: 195px;
+    width: 62em;
+    margin-left: 2em;
+    font-size: 1em;
+        
+    }
+    
+    .slo2{
+        font-weight: normal;
+    font-family: 'Alegreya Sans SC', sans-serif;
+    font-size: 9rem;
+    }
+    
+    .sla{
+        height: 0em;
+    width: 61em;
+    }
+    
+    .sla2{
+        font-family: 'Advent Pro', sans-serif;
+        font-size: 9rem;
+        color: #37359e;
+        position: relative;
+        z-index: 99;
+    }
+    
+    
+    .home{
+        height: 91em;
+        width: 94em;
+        
+    }
+    .new{
+        height: 39em;
+        width: 95em;
+        
+    }
+    
+    .naw{
+        height: 37em;
+    width: 95em;
+    mix-blend-mode: overlay;
+    }
+    
+    .snek{
+        top: -10em;
+    position: relative;
+    height: 39em;
+    width: 95em;
+    mix-blend-mode: overlay;
+    }
+    
+    
+    .sli{
+        left: 12em;
+    right: 0em;
+    top: -10em;
+    position: relative;
+    z-index: 100;
+    width: 1em;
+    writing-mode: tb-rl;
+    color: #f31e1e;
+    font-size: 2.3em;
+    transform: rotate(90deg);
+    font-family: 'Advent Pro', sans-serif;
+    }
+    
+    
+    .shoes{
+        margin: 3em;
+    height: 136em;
+    width: 89em;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    font-family: 'Advent Pro', sans-serif;
+    }
+    
+    .convB{
+        box-shadow: 10px 14px 11px #302e2e;
+    height: 43em;
+    width: 37em;
+    border: solid 6px black;
+    border-radius: 25px;
+    }
+    .Nou{
+        display: flex;
+        margin: 2em;
+        position: absolute;
+        height: 6em;
+        width: 15em;
+        background-color: #5907af;
+        color: #f0fdbe;
+        flex-wrap: nowrap;
+        align-items: center;
+        justify-content: space-evenly;
+    }
+    
+    .conve{
+        border-radius: 19px;
+    height: 43em;
+    width: 37em;
+}
+    
+    .infoS{
+        border-radius: 0 0 15px 15px;
+    top: 195em;
+    position: absolute;
+    background-color: #000000;
+    height: 12em;
+    width: 37em;
+    opacity: 0.5;
+    }
+    
+    ul{
+        margin-left: -1em;
+    margin-top: 8px;
+    font-size: x-large;
+    width: 13em;
+    height: 30px;
+    color: white;
+    font-weight: bolder;
+    }
+    
+    .note{
+        color: yellow;
+    }
+    
+    
+    .puma{
+        box-shadow: 10px 14px 11px #302e2e;
+    height: 43em;
+    width: 37em;
+    border: solid 6px black;
+    border-radius: 25px;
+    }
+    
+    .Nauv{
+        display: flex;
+        margin: 2em;
+        position: absolute;
+        height: 6em;
+        width: 15em;
+        background-color: #5907af;
+        color: #f0fdbe;
+        flex-wrap: nowrap;
+        align-items: center;
+        justify-content: space-evenly;
+    }
+    
+    .Pum{
+        border-radius: 19px;
+    height: 43em;
+    width: 37em;
+    }
+    
+    
+    .info{
+        border-radius: 0 0 15px 15px;
+    top: 195em;
+    position: absolute;
+    background-color: #000000;
+    height: 12em;
+    width: 37em;
+    opacity: 0.5;
+    }
+    
+    .nota{
+        color: yellow;
+    }
+    
+    .reebok{
+        box-shadow: 10px 14px 11px #302e2e;
+    height: 43em;
+    width: 37em;
+    border: solid 6px black;
+    border-radius: 25px; 
+    }
+    
+    .New{
+        display: flex;
+        margin: 2em;
+        position: absolute;
+        height: 6em;
+        width: 15em;
+        background-color: #5907af;
+        color: #f0fdbe;
+        flex-wrap: nowrap;
+        align-items: center;
+        justify-content: space-evenly;
+    }
+    
+    .ree{
+        border-radius: 19px;
+    height: 43em;
+    width: 37em;
+    }
+    
+    
+    .informa{
+        border-radius: 0 0 15px 15px;
+    top: 195em;
+    position: absolute;
+    background-color: #000000;
+    height: 12em;
+    width: 37em;
+    opacity: 0.5;
+    }
+    
+    .eval{
+        color: yellow;
+    }
+    
+    
+    
+    .Jordan{
+        box-shadow: 10px 14px 11px #302e2e;
+    height: 43em;
+    width: 37em;
+    border: solid 6px black;
+    border-radius: 25px;
+    }
+    
+    .nobio{
+        display: flex;
+        margin: 2em;
+        position: absolute;
+        height: 6em;
+        width: 15em;
+        background-color: #5907af;
+        color: #f0fdbe;
+        flex-wrap: nowrap;
+        align-items: center;
+        justify-content: space-evenly;
+    }
+    
+    .jord{
+        border-radius: 19px;
+    height: 43em;
+    width: 37em;
+        
+    }
+    
+    
+    .information{
+        border-radius: 0 0 15px 15px;
+    top: 195em;
+    position: absolute;
+    background-color: #000000;
+    height: 12em;
+    width: 37em;
+    opacity: 0.5;
+    }
+    
+    .evalua{
+        color: yellow;
+    }
+    
+    .Nike{
+        box-shadow: 10px 14px 11px #302e2e;
+    height: 43em;
+    width: 37em;
+    border: solid 6px black;
+    border-radius: 25px;
+    }
+    
+    .PRO{
+        display: flex;
+        margin: 2em;
+        position: absolute;
+        height: 6em;
+        width: 15em;
+        background-color: #5907af;
+        color: #f0fdbe;
+        flex-wrap: nowrap;
+        align-items: center;
+        justify-content: space-evenly;
+    }
+    
+    
+    .infoox{
+        border-radius: 0 0 15px 15px;
+        top: 101em;
+        position: absolute;
+        background-color: #000000;
+        height: 7em;
+        width: 18em;
+        opacity: 0.5;
+    }
+    
+    .noias{
+        color: yellow;
+    }
+    
+    
+    
+    .flower{
+        box-shadow: 10px 14px 11px #302e2e;
+    height: 43em;
+    width: 37em;
+    border: solid 6px black;
+    border-radius: 25px;
+        }
+    
+    .mountain{
+        display: flex;
+        margin: 2em;
+        position: absolute;
+        height: 6em;
+        width: 15em;
+        background-color: #5907af;
+        color: #f0fdbe;
+        flex-wrap: nowrap;
+        align-items: center;
+        justify-content: space-evenly;
+    }
+    
+    
+    .infoop{
+        border-radius: 0 0 15px 15px;
+        top: 101em;
+        position: absolute;
+        background-color: #000000;
+        height: 7em;
+        width: 18em;
+        opacity: 0.5;
+    }
+    
+    .nobias{
+        color: yellow;
+    }
+    
+    
+    
+    .star{
+        overflow: hidden;
+        height: 18em;
+        width: 18em;
+        border: solid 6px black;
+        border-radius: 25px;
+        box-shadow: 10px 14px 11px #302e2e;
+    }
+    
+    .Converse{
+        margin-left: -3em;
+        margin-top: 0em;
+        border-radius: 19px;
+        height: 18em;
+        width: 27em;
+    }
+    
+    
+    .all{
+        border-radius: 0 0 15px 15px;
+        top: 101em;
+        position: absolute;
+        background-color: #000000;
+        height: 7em;
+        width: 18em;
+        opacity: 0.5;
+        color: white;
+    }
+    
+    .nobious{
+        color: yellow;
+    }
+    
+    
+    .Leather{
+        height: 18em;
+        width: 18em;
+        border: solid 6px black;
+        border-radius: 25px;
+        box-shadow: 10px 14px 11px #302e2e;
+    }
+    
+    .Leat{
+        border-radius: 19px;
+        height: 18em;
+        width: 18em;
+    }
+    
+    
+    .Leee{
+        border-radius: 0 0 15px 15px;
+        top: 101em;
+        position: absolute;
+        background-color: #000000;
+        height: 7em;
+        width: 18em;
+        opacity: 0.5;
+        color: white;
+    }
+    
+    .nobious6{
+        color: yellow;
+    }
+    
+    .Decor{
+        margin-left: 7em;
+        height: 31em;
+        width: 86em;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        font-family: 'Advent Pro', sans-serif;
+        
+    }
+    
+    
+    article{
+        height: 18em;
+        width: 18em;
+        border: solid 6px black;
+        border-radius: 25px;
+        box-shadow: 10px 14px 11px #302e2e;
+    }
+    
+    .Pied{
+        display: flex;
+        overflow: hidden;
+        height: 30em;
+        width: 18em;
+        align-items: center;
+        background-color: #5907af;
+    }
+    
+    .foote{
+        mix-blend-mode: screen;
+        margin-left: -6em;
+        transform: rotate(90deg);
+        height: 18em;
+        width: 30em;
+        border-radius: 15px;
+    }
+    
+    
+    .sandale{
+        height: 13em;
+        width: 34em;
+        overflow: hidden;
+        position: relative;
+        right: 30em;
+        background-color: #5907af;
+    }
+    
+    .sandalette{
+        margin-top: -8em;
+        mix-blend-mode: luminosity;
+        height: 29em;
+        width: 34em;
+        border-radius: 15px;
+        top: 1em;
+    }
+    
+    .adidas{
+        left: 339px;
+        position: relative;
+        overflow: hidden;
+        height: 13em;
+        width: 34em;
+        top: -15em;
+    }
+    
+    .adidos{
+        mix-blend-mode: overlay;
+        margin-top: -9em;
+        height: 30em;
+        width: 39em;
+    }
+    
+    .couleur{
+        right: 9em;
+        position: relative;
+        overflow: hidden;
+        height: 30em;
+        width: 18em;
+        background-color: red;
+        bottom: 490px;
+        border-radius: 9px;
+    }
+    
+    
+    .cool{
+        mix-blend-mode: difference;
+        margin-left: -6em;
+        transform: rotate(90deg);
+        height: 33em;
+        width: 31em;
+    }
+    
+    
+    .top{
+        display: flex;
+        margin: 4em;
+        height: 20em;
+        width: 88em;
+        justify-content: space-evenly;
+        flex-wrap: nowrap;
+        overflow: hidden;
+        font-family: 'Advent Pro', sans-serif;
+    }
+    
+    .veja{
+        position: relative;
+        box-shadow: 10px 14px 11px #302e2e;
+        height: 18em;
+        width: 13em;
+        border: solid 6px black;
+        border-radius: 25px;
+        overflow: hidden;
+    }
+    
+    .veji{
+        left: -4em;
+        position: relative;
+        border-radius: 19px;
+        height: 19em;
+        width: 22em;
+    }
+    
+    .vejii{
+        border-radius: 0 0 15px 15px;
+        top: 13em;
+        position: absolute;
+        background-color: #000000;
+        height: 5em;
+        width: 13em;
+        opacity: 0.5;
+    }
+    
+    
+    .toup{
+        position: relative;
+        box-shadow: 10px 14px 11px #302e2e;
+        height: 18em;
+        width: 13em;
+        border: solid 6px black;
+        border-radius: 25px;
+        overflow: hidden;
+    }
+    
+    .gola{
+        left: -4em;
+        position: relative;
+        border-radius: 19px;
+        height: 19em;
+        width: 22em;
+    }
+    
+    .golda{
+        border-radius: 0 0 15px 15px;
+        top: 13em;
+        position: absolute;
+        background-color: #000000;
+        height: 5em;
+        width: 13em;
+        opacity: 0.5;
+    }
+    
+    .pumaa{
+        position: relative;
+        box-shadow: 10px 14px 11px #302e2e;
+        height: 18em;
+        width: 13em;
+        border: solid 6px black;
+        border-radius: 25px;
+        overflow: hidden;
+    }
+    
+    .vint{
+        left: -4em;
+        position: relative;
+        border-radius: 19px;
+        height: 19em;
+        width: 22em;
+    }
+    
+    .vintage{
+        border-radius: 0 0 15px 15px;
+        top: 13em;
+        position: absolute;
+        background-color: #000000;
+        height: 5em;
+        width: 13em;
+        opacity: 0.5;
+    }
+    
+    
+    .nikee{
+        position: relative;
+        box-shadow: 10px 14px 11px #302e2e;
+        height: 18em;
+        width: 13em;
+        border: solid 6px black;
+        border-radius: 25px;
+        overflow: hidden;
+    }
+    
+    .nyke{
+        left: -4em;
+        position: relative;
+        border-radius: 19px;
+        height: 19em;
+        width: 22em;
+    }
+    
+    .vintage{
+        border-radius: 0 0 15px 15px;
+        top: 13em;
+        position: absolute;
+        background-color: #000000;
+        height: 5em;
+        width: 13em;
+        opacity: 0.5;
+    }
+    
+    
+    .boutonn{
+        height: 9em;
+        width: 34em;
+        display: flex;
+        margin-left: 33em;
+        justify-content: space-between;
+        align-items: flex-start;
+        flex-wrap: nowrap;
+        font-weight: bolder;
+        font-family: 'Advent Pro', sans-serif;
+    }
+    
+    .Product{
+        display: flex;
+        background: linear-gradient(179deg, #0500ff,#000000);
+        border: solid 1px #37359e;
+        color: #f0fdbe;
+        height: 4em;
+        width: 12em;
+        border-radius: 19px;
+        flex-wrap: nowrap;
+        align-items: center;
+        justify-content: space-evenly;
+        font-size: larger;
+    }
+    
+    .conss{
+        height: 27em;
+        width: 94em;
+        display: flex;
+        border: green;
+        font-family: 'Advent Pro', sans-serif;
+        
+    }
+    
+    
+    .concc{
+        height: 27em;
+        width: 2000em;
+        overflow: hidden;
+        background-image: url("c:\Users\Zouqq\Documents\Devlopp\exo\sneakers\dossier img sneacker (1)\dossier img sneacker\prairie.jpg");
+    }
+    
+    .green{
+       top: 157em;
+        position: absolute;
+        left: 14em;
+        transform: translate(-50%, -50%);
+        z-index: 1;
+        color: white;
+        font-size: 20px;
+        font-weight: bold;
+        border: none;
+        box-shadow: none;
+    }
+    
+    .ethique{
+        top: 157em;
+        position: absolute;
+        left: 59em;
+        transform: translate(-50%, -50%);
+        z-index: 1;
+        color: white;
+        font-size: 20px;
+        font-weight: bold;
+        border: none;
+        box-shadow: none;
+    }
+    
+    .reseau{
+        height: 7em;
+        width: 21em;
+        display: flex;
+        position: relative;
+        top: 3em;
+        left: 39em;
+        justify-content: space-evenly;
+        align-items: center;
+    }
+    
+    .ticktok{
+        height: 5em;
+        width: 5em;
+    border-radius: 45px;
+    }
+    
+    .twitter{
+        height:5em;
+        width: 5em;
+        border-radius: 45px;
+    }
+    
+    .insta{
+        height: 5em;
+        width: 5em;
+        border-radius: 45px;
+    }
+    
+    .paiment{
+        height: 7em;
+        width: 34em;
+        display: flex;
+        position: relative;
+        top: 10em;
+        left: 31em;
+        justify-content: space-evenly;
+        align-items: center;
+    }
+    
+    .apple{
+        height: 4em;
+        width: 7em; 
+    }
+    
+    .google{
+        height: 4em;
+        width: 7em; 
+    }
+    
+    .paypal{
+        height: 4em;
+        width: 7em; 
+    }
+    
+    .visa{
+        height: 4em;
+        width: 7em; 
+    }
+    
+    footer{
+        height: 27em;
+        width: 94em;
+    }
+    
+    .fuute{
+        height: 27em;
+        width: 94em;
+        display: flex;
+        position: relative;
+        justify-content: space-around;
+        align-items: center;
+        
+    }
+    
+    .redirection{
+        height: 10em;
+        width: 18em;
+        border: none;
+        box-shadow: none;
+        color: white;
+    }
+    
+    .client{
+        height: 10em;
+        width: 18em;
+        border: none;
+        box-shadow: none;
+        color: white;
+    }
+    
+    .achat{
+        height: 10em;
+        width: 18em;
+        border: none;
+        box-shadow: none;
+        color: white;
+    }
+    
+    .collab{
+        height: 10em;
+        width: 18em;
+        border: none;
+        box-shadow: none;
+        color: white;
+    }
+    
+}
