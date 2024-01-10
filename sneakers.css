@@ -5,6 +5,9 @@ width: 99%;
 color: #f0fdbe; ;
 }
 
+
+
+
 header{
     background-color: #5A8962;
     height: 18em;
@@ -707,6 +710,16 @@ article{
     width: 22em;
 }
 
+.nykee{
+    border-radius: 0 0 15px 15px;
+    top: 13em;
+    position: absolute;
+    background-color: #000000;
+    height: 5em;
+    width: 13em;
+    opacity: 0.5;
+}
+
 .vintage{
     border-radius: 0 0 15px 15px;
     top: 13em;
@@ -896,7 +909,7 @@ footer{
 
 
 
-@media only screen and (min-width: 430px) and (max-width:932px) {
+@media only handhelp and (min-width: 430px) and (max-width:932px) {
   
     
     body{
